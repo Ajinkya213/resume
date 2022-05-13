@@ -1,0 +1,6 @@
+This is a test for change username
+
+git config --list >> To know what user are working here on the git
+
+ git config --global user.name "Name here"
+ git config -- global user.email "Email here"
